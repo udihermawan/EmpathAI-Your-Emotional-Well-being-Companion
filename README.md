@@ -5,6 +5,8 @@
 EmpathAI is a groundbreaking AI-powered emotional well-being companion, designed to combat loneliness, social isolation, and mental health struggles. By integrating Generative AI, Computer Vision, NLP, and Hugging Face models, EmpathAI provides personalized emotional support, fosters human connections, and promotes mental resilience — while respecting privacy and cultural diversity.
 
 ---
+[![Watch the demo video](https://img.youtube.com/vi/vwHvNW9SRvM/0.jpg)](https://youtu.be/vwHvNW9SRvM)  
+
 
 ## 🌟 Key Features
 
